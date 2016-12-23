@@ -1,0 +1,7 @@
+free.1gb.ua
+
+goabroad.inf.ua
+
+login goabroad
+password 20032014
+name Анна
